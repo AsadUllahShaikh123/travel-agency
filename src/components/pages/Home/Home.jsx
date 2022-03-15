@@ -1,9 +1,10 @@
 import React from 'react'
-
+import Hero from './Hero'
+import './Home.css'
 const Home = () => {
   return (
    <>
-    <h1>Helo from home</h1>
+   <Hero/>
    </>
   )
 }

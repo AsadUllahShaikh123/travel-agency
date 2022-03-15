@@ -42,4 +42,8 @@ li{
 }
 li:hover {
   cursor: pointer;
+  border-bottom: 2px solid white;
+}
+li:hover:last-child{
+  border: none;
 }
