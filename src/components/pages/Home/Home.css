@@ -110,3 +110,17 @@ main {
   padding: 1rem;
   font-weight: bold;
 }
+
+.services {
+  background-image: url('../../../images/img-8.jpg');
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.services h1 {
+  font-size: 5rem;
+  color: white;
+}
+
